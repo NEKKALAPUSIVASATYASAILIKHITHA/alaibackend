@@ -98,42 +98,5 @@ yaml
 Copy
 Edit
 
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone this repo**
-   ```bash
-   git clone <your-repo-url>
-   cd backend
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Add your credentials
-
-Firecrawl API key in scraper.py
-
-Alai email, password, and presentation ID in main.py or load from .env (optional)
-
-🚀 Run the Script
-bash
-Copy
-Edit
-python main.py
-You’ll see output like:
-
-arduino
-Copy
-Edit
-✅ Alai Presentation Updated: https://app.getalai.com/presentation/your-id
-🛠 Tech Stack
-Python 🐍
-
-Firecrawl API 🌐
-
-Alai API (Reverse Engineered)
-Requests & BeautifulSoup
-
+Loom video for your reference:
+https://www.loom.com/share/300c7b29c0c54746942bed5f368c7520?sid=26b89ef6-3cbe-4758-bd40-333540f0a183
